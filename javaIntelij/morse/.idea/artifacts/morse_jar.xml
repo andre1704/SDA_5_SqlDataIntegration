@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="morse:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/morse_jar</output-path>
+    <root id="archive" name="morse.jar">
+      <element id="module-output" name="morse" />
+      <element id="module-output" name="gui" />
+      <element id="module-output" name="morsetranslate" />
+    </root>
+  </artifact>
+</component>

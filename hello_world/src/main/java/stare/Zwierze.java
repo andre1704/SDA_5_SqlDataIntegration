@@ -1,0 +1,6 @@
+/**
+ * Created by RENT on 2017-02-14.
+ */
+public class Zwierze {
+    String name;
+}
